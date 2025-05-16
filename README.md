@@ -46,5 +46,3 @@ This project implements a fully functional Self-Organizing Map (SOM) from scratc
    - Hit Maps to visualize data density.
    - Interactive 3D weight grids using Plotly.
 
-## 📦 Folder Structure (Suggested)
-
